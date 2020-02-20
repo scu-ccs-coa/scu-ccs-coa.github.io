@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>计算机组成和体系结构课程</title>
+    <description>四川大学网络空间安全学院计算机组成和体系结构课程网站</description>
+    <link>https://scu-ccs-coa.github.io/homepage/</link>
+    <atom:link href="https://scu-ccs-coa.github.io/homepage/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 20 Feb 2020 13:02:23 +0800</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2020 13:02:23 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>第一讲</title>
+        <description>
+</description>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0800</pubDate>
+        <link>https://scu-ccs-coa.github.io/homepage/2020/02/20/lecture-1/</link>
+        <guid isPermaLink="true">https://scu-ccs-coa.github.io/homepage/2020/02/20/lecture-1/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
